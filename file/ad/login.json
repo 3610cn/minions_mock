@@ -1,0 +1,27 @@
+{
+  "type":"response", 
+  "action":"mkac", 
+  "result":[
+    {
+      "Band":"Adele",
+      "Hits":422
+    },
+    {
+      "Band":"Bryan Adams",
+      "Hits":93
+    },
+    {
+      "Band":"Adai",
+      "Hits":30
+    },
+    {
+      "Band":"Adamo",
+      "Hits":18
+    },
+    {
+      "Band":"Adelle",
+      "Hits":15
+    }
+  ]
+}
+
